@@ -1,0 +1,39 @@
+{
+    "tabla": [
+      {
+        "titulo1": "N°",
+        "titulo2": "Cedula",
+        "titulo3": "Nombres de estudiante",
+        "titulo4": "Correo institucional",
+        "titulo5": "N°_justificaciones"
+      },
+      {
+        "celda1": "1",
+        "celda2": "1752244861",
+        "celda3": "JIMMY SANTIAGO ALVARADO CHAVEZ",
+        "celda4": "e1752244861@live.uleam.edu.ec",
+        "celda5": "1"
+      },
+      {
+        "celda1": "2",
+        "celda2": "1314613777",
+        "celda3": "JAMILETH ESTELA ANCHUNDIA ANCHUNDIA",
+        "celda4": "e1314613777@live.uleam.edu.ec",
+        "celda5": "2"
+      },
+      {
+        "celda1": "3",
+        "celda2": "1317829073",
+        "celda3": "FRANKLIN JOSTIN BAILON PALMA",
+        "celda4": "e1317829073@live.uleam.edu.ec",
+        "celda5": "3"
+      },
+      {
+        "celda1": "4",
+        "celda2": "1314929025",
+        "celda3": "MARCOS ENRIQUE BARCIA FALCONI",
+        "celda4": "e1314929025@live.uleam.edu.ec",
+        "celda5": "1"
+      }
+    ]
+  }
