@@ -1,48 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--etiqueta raíz <tabla> para contener los datos de la tabla-->
 <tabla>
+    <!--<fila> representan cada fila de la tabla-->
     <fila>
+        <!--representan las celdas de cada fila-->
         <titulo1> N°</titulo1>
         <titulo2>Cedula</titulo2>
         <titulo3>Nombres de estudiante</titulo3>
         <titulo4>Correo institucional</titulo4>
         <titulo5>N°_justificaciones</titulo5>
     </fila>
+    <!--<fila> representan cada fila de la tabla-->
     <fila>
+        <!--representan las celdas de cada fila-->
         <celda1>1</celda1>
         <celda2>1752244861</celda2>
         <celda3>JIMMY SANTIAGO ALVARADO CHAVEZ</celda3>
         <celda4>e1752244861@live.uleam.edu.ec</celda4> 
         <celda5>3</celda5>
     </fila>
+    <!--<fila> representan cada fila de la tabla-->
     <fila>
+        <!--representan las celdas de cada fila-->
         <celda1>2</celda1>
         <celda2>1314613777</celda2>
         <celda3>JAMILETH ESTELA ANCHUNDIA ANCHUNDIA</celda3>
         <celda4>e1314613777@live.uleam.edu.ec</celda4> 
         <celda5>1</celda5>
     </fila>
-        <fila>
+    <!--<fila> representan cada fila de la tabla-->
+    <fila>
+        <!--representan las celdas de cada fila-->
         <celda1>3</celda1>
         <celda2>1317829073</celda2>
         <celda3>FRANKLIN JOSTIN BAILON PALMA</celda3>
         <celda4>e1317829073@live.uleam.edu.ec</celda4> 
         <celda5>1</celda5>
     </fila>
-        <fila>
+    <!--<fila> representan cada fila de la tabla-->
+    <fila>
+        <!--representan las celdas de cada fila-->
         <celda1>4</celda1>
         <celda2>1314929025</celda2>
         <celda3>MARCOS ENRIQUE BARCIA FALCONI</celda3>
         <celda4>e1314929025@live.uleam.edu.ec</celda4> 
         <celda5>2</celda5>
     </fila>
-        <fila>
+    <!--<fila> representan cada fila de la tabla-->
+    <fila>
+        <!--representan las celdas de cada fila-->
         <celda1>5</celda1>
         <celda2>1345627833</celda2>
         <celda3>MIKE YEREMI BELLO ALONZO</celda3>
         <celda4>e1316619897@live.uleam.edu.ec</celda4> 
         <celda5>2</celda5>
     </fila>
-        <fila>
+    <!--<fila> representan cada fila de la tabla-->
+    <fila>
+        <!--representan las celdas de cada fila-->
         <celda1>6</celda1>
         <celda2>1351446651</celda2>
         <celda3>ROBINSON MIGUEL BENITEZ SOZA</celda3>
