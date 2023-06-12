@@ -66,8 +66,11 @@ var cargarJSON = function() {
     };
     xhr.send();
 };
+
         // Ejecutar las funciones después de cargar la página
         document.addEventListener("DOMContentLoaded", function() {
             cargarXML();
             cargarJSON();
         });
+        /* DOMContentLoaded para asegurarse de que el documento HTML se haya cargado completamente antes de 
+        llamar a las funciones cargarXML() y cargarJSON().*/
